@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
-- Repository URL: 
+- Solution URL: https://heynomso.github.io/Testimonials-grid-section/
+- Repository URL: https://github.com/heynomso/Testimonials-grid-section
 
 ### Built with
 
