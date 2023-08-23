@@ -40,4 +40,4 @@ Users should be able to:
 
 - Github - [@heynomso](https://github.com/heynomso)
 - Frontend Mentor - [@heynomso](https://www.frontendmentor.io/profile/heynomso)
-- Twitter - [@heynomso](https://twitter.com/heynomso)
+- Twitter - [@xNomso](https://twitter.com/xNomso)
