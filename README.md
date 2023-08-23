@@ -18,6 +18,7 @@ Users should be able to:
 ### Screenshot
 
 - Desktop view: ![Alt text](output/Desktop-view.png)
+- Mobile view: ![Alt text](<output/mobile view.png>)
 
 ### Links
 
